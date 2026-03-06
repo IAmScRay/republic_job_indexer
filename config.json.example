@@ -1,0 +1,10 @@
+{
+    "api_url": "",
+    "db_path": "",
+    "discord_bot_token": "",
+    "discord_channel_id": "",
+    "page_limit": 100,
+    "block_window_length": 100,
+    "last_indexed_height": 1,
+    "loop_sleep_seconds": 10
+}
